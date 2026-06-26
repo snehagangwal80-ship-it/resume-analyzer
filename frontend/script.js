@@ -1,4 +1,4 @@
-const API_URL = "https://analyzer-resume1.netlify.app/api";
+const API_URL = "https://resume-backend-93ws.onrender.com/api";
 
 // DOM Elements
 const authSection = document.getElementById("auth-section");
