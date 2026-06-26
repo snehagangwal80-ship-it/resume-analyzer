@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://analyzer-resume1.netlify.app/api";
 
 // DOM Elements
 const authSection = document.getElementById("auth-section");
